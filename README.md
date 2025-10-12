@@ -210,8 +210,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Simon Uddin**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@Simonuddin11](https://github.com/SimonUddin11)
+- Email: Simon.uddin@student.uts.edu.au
 
 ## 🙏 Acknowledgments
 
@@ -222,7 +222,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you have any questions or need help, please:
-1. Check the [Issues](https://github.com/yourusername/Smart-Garbage-Classification-Project/issues) page
+1. Check the [Issues](https://github.com/SimonUddin11/Smart-Garbage-Classification-Project/issues) page
 2. Create a new issue with detailed description
 3. Contact the author directly
 
