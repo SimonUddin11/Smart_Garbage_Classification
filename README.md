@@ -74,7 +74,8 @@ Open your browser and go to: `http://localhost:5004`
 | Model | Epochs | Architecture | Accuracy | File Size |
 |-------|--------|--------------|----------|-----------|
 | **Basic Model** | 10 | Simple CNN | ~60-70% | 33 MB |
-| **Improved Model** | 50 | Advanced CNN + BatchNorm + Dropout | ~80-90% | 196 MB |
+| **Improved Model** | 50 | Advanced CNN + BatchNorm + Dropout | 92
+% | 196 MB |
 
 ### Training Features
 - ✅ **Data Augmentation**: Rotation, flip, zoom, shear
